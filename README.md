@@ -1,7 +1,10 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀 
+ 
 ![](https://github.com/abigailmwanza/SQL_DataWareHouse/blob/main/What%20is%20a%20Data%20Warehouse%20%E2%80%93%20Definition%2C%20Example%20%26%20Benefits.jpg)
+
+
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
