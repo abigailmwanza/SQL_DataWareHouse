@@ -10,7 +10,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 ## 🏗️ Data Architecture
 
-![](https://github.com/abigailmwanza/SQL_DataWareHouse/blob/main/warehouse%20architectur.JPG)
+![](https://github.com/abigailmwanza/SQL_DataWareHouse/blob/main/Docs/warehouse%20Arch.JPG)
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![Data Architecture].
